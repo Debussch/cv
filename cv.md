@@ -1,7 +1,9 @@
-
 Thomas Debusschere
 
-### Je suis Webmaster e-Commerce et Community Manager
+[Linkedin](https://www.linkedin.com/in/thomas-debusschere-7811a89a/)
+[GitHub](https://github.com/Debussch)
+- - -
+### J'assure la gestion de sites e-Commerce ainsi que le management des reseaux sociaux.
 - - -
 #### Competences Techniques
 - Git & GitHub
@@ -25,4 +27,5 @@ Thomas Debusschere
  Gestion de site web Prestashop, mises a jours, SEO, SEA, F-Commerce, Developpement d'une strategie sur les reseaux sociaux, ...
 - - -
 Contact : thomas.debussch@gmail.com
+
 
