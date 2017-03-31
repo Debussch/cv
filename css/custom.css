@@ -2,22 +2,46 @@
   background-color: #EFF0F4;
 }
 
-#usefull-links{
+.fc-white{
+  background-color: white;
+}
+
+.fc-darkblue{
+    background-color: #17343A;
+}
+
+.fc-bluegreen{
+    background-color: #60C1AD;
+}
+
+.competencies-block{
   margin: auto auto;
   max-width: 960px;
   padding: 50px 0px;
+    width:100%;
 }
 
-#usefull-links h2{
+.competencies-block h2{
   margin-bottom: 45px;
 }
 
-.competences-title h5{
+.competencies-title h5{
   margin-top: 10px;
 }
 
+.last{
+    padding-bottom: 0px;
+}
+
+.pad{
+    padding-bottom: 100px;
+}
+
+#widget .title{
+    padding-bottom: 15px;
+}
+
 #footer{
-  background-color: #292b2c;
   padding: 25px 10px;
   color: white;
 }
